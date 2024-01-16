@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Front End leaning Full Stack Software Developer who also dabble is UI Design. I
+        I'm a Front End leaning Full Stack Software Developer who also dabbles in UI Design. I
         specialise in building (and occasionally designing) exceptional digital experiences.
         Currently, I'm focused on building accessible, human-centered products at{' '}
         <a href="https://www.and.digital/" target="_blank" rel="noreferrer">
@@ -75,15 +75,6 @@ const Hero = () => {
       </p>
     </>
   );
-  // const five = (
-  //   <a
-  //     className="email-link"
-  //     href="https://www.newline.co/courses/build-a-spotify-connected-app"
-  //     target="_blank"
-  //     rel="noreferrer">
-  //     Check out my course!
-  //   </a>
-  // );
 
   const items = [one, two, three, four];
 
